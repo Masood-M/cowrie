@@ -26,7 +26,7 @@
 # environment
 #
 # (default: svr04)
-hostname = svr04
+hostname = AmlakFinance
 
 
 # Directory where to save log files in.
@@ -466,8 +466,8 @@ arch = linux-x64-lsb
 
 # Modify the response of '/bin/uname'
 # Default (uname -a): Linux <hostname> <kernel_version> <kernel_build_string> <hardware_platform> <operating system>
-kernel_version = 3.2.0-4-amd64
-kernel_build_string = #1 SMP Debian 3.2.68-1+deb7u1
+kernel_version = 5.4.0-12-amd64
+kernel_build_string = #1 SMP Ubuntu 5.4.0-12-generic
 hardware_platform = x86_64
 operating_system = GNU/Linux
 
