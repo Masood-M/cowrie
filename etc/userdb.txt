@@ -41,7 +41,7 @@ root:x:!Admin1234
 root:x:!ubnt
 root:x:!student
 root:x:!/honeypot/i
-root:x:*
+root:x:!*
 /hikvision/i:x:*
 /ftpuser/i:x:*
 /docker/i:x:*
