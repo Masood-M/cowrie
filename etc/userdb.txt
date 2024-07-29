@@ -46,3 +46,4 @@ root:x:!*
 /ftpuser/i:x:*
 /docker/i:x:*
 /elastic/i:x:*
+*:x:*
