@@ -33,10 +33,8 @@ root:x:!wedadmin
 root:x:!test123
 root:x:!ftpuser
 root:x:!support
-root:x:!admin123
-root:x:!admin1234
-root:x:!Admin123
-root:x:!Admin1234
+root:x:!/admin123/i
+root:x:!/admin1234/i
 root:x:!ubnt
 root:x:!student
 root:x:!/honeypot/i
@@ -44,8 +42,14 @@ root:x:!/A/i
 root:x:!/AA/i
 root:x:!/AAA/i
 root:x:!/AAAA/i
+root:x:!/B/i
+root:x:!/BB/i
+root:x:!/BBB/i
+root:x:!/BBBB/i
 root:x:!/ABCD/i
 root:x:!/ABCDE/i
+root:x:!/ABCDEF/i
+root:x:!/ABCDEG/i
 root:x:!1234567
 root:x:!12345678
 root:x:!123456789
