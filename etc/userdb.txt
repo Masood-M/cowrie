@@ -30,7 +30,6 @@ root:x:!administrator
 root:x:!webmaster
 root:x:!Passw@rd
 root:x:!wedadmin
-root:x:!toor
 root:x:!test123
 root:x:!ftpuser
 root:x:!support
