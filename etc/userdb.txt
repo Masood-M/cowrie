@@ -13,7 +13,6 @@
 # '/' can be used to write a regular expression 
 #
 root:x:!root
-root:x:!0
 root:x:!111111
 root:x:!123
 root:x:!1234
@@ -54,9 +53,8 @@ root:x:!1234567
 root:x:!12345678
 root:x:!123456789
 root:x:*
-/hikvision/i:x:*
-/ftpuser/i:x:*
-/docker/i:x:*
-/elastic/i:x:*
+/oracle/:x:*
+/docker/:x:*
+/mysql/:x:*
 *:x:somepassword
 *:x:*
